@@ -1,3 +1,3 @@
 # Flappy-Ship
 
-![flappyship](https://user-images.githubusercontent.com/16121414/53234928-b07b0e80-36a1-11e9-8f12-f820fb9d2bd4.gif)
+<a href="https://imgflip.com/gif/2ubx7o"><img src="https://i.imgflip.com/2ubx7o.gif" title="made at imgflip.com"/></a>
